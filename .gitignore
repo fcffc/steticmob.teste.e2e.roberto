@@ -1,0 +1,11 @@
+.vscode
+sc-ephemeral-tunnel.log
+package-lock.json
+support/errorShots/*
+node_modules
+support/context/selenium-logs/*
+type-src/
+npm-debug.log
+allure-results
+reports/.DS_Store
+support/util/gravados/*
